@@ -3,16 +3,17 @@
 <h1>Anmol Goyal</h1>
 
 CS Freshman | Computer Systems
-
-<a href="https://anmol-goyal7.github.io">anmol-goyal7.github.io</a>
+<br>
+More @ <a href="https://anmol-goyal7.github.io">anmol-goyal7.github.io</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anmol-goyal7&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white&icon_color=white" height="160" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-goyal7&theme=transparent&hide_border=true&ring=white&fire=white&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=white" height="160" alt="streak" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anmol-goyal7&style=flat-square&color=grey&label=Profile%20views" alt="Profile views" />
 
-<br>
+  <img src="https://hits.sh/github.com/anmol-goyal7.svg?style=flat-square&label=Visitors&color=9e9e9e" alt="Visitors" />
 
-<img src="https://komarev.com/ghpvc/?username=anmol-goyal7&style=flat-square&color=grey&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2Fanmol-goyal7.json&query=%24.totalContributions&style=flat-square&label=Contributions&color=grey" alt="Contributions" />
+</p>
 
 </div>
