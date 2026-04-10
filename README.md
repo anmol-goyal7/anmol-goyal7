@@ -1,6 +1,6 @@
 # Anmol Goyal
 
-CS Freshman @ SRMIST | GPU Compute, Graphics, Systems Programming
+CS Freshman | GPU Compute, Graphics, Systems Programming
 
 ## Projects
 
