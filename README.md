@@ -12,5 +12,5 @@ CS Freshman | GPU Compute, Graphics, Systems Programming
 ## Links
 
 - [Portfolio](https://anmol-goyal7.github.io)
-- [LinkedIn](https://linkedin.com/in/anmol-goyal7)
+- [LinkedIn](https://www.linkedin.com/in/anmol-goyal-92b460378/)
 - [X](https://x.com/anmol_goyal7)
