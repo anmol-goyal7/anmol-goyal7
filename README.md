@@ -1,6 +1,6 @@
 # Anmol Goyal
 
-CS Freshman | GPU Compute, Graphics, Systems Programming
+CS Freshman | Systems & Graphics
 
 ## Projects
 
